@@ -6,7 +6,7 @@ int main()
 {
     float c,f;
     system("CLS");
-    cout<<"Informe a temperatura em graus centígrados:";
+    cout<<"Informe a temperatura em graus centÃ­grados:";
     cin>>c;
     f=(9*c+160)/5;
     cout <<"Temperatura em Farenheit " << f << endl;
